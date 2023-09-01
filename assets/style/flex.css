@@ -128,4 +128,8 @@
 
 /*AGENDA*/
 
+    .agenda__item{
+        width: 380px;
+    }
+
 }
